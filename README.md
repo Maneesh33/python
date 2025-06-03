@@ -1,6 +1,6 @@
 # Python for AI Practice - Maneesh Bommakanti
 
-Welcome to my dedicated repository for practicing Python, with a specific focus on its applications in Artificial Intelligence and Machine Learning. This space serves as a living journal of my learning journey, a sandbox for experimentation, and a portfolio showcasing my developing skills in the field. I am committed to consistent practice and building meaningful projects, documenting my progress along the way.
+Welcome to my dedicated repository for practicing Python, with a specific focus on its applications in Artificial Intelligence and Machine Learning. I want to build Robots such as iron man or his hand, wall-e.
 
 ## Purpose and Goals
 
