@@ -24,9 +24,10 @@ python/
 
 I commit to practicing Python for 3 hours daily, focusing on:
 
-My roadmap is simple: Each ✅is represented as the topic i have completed
+My roadmap is simple: Each "✅" is represented as the topic i have completed
 
 ✅ AI Developer Roadmap — Markdown Checklist
+
 ⚙️ Stage 1: Python Mastery (Foundations)
 Variables, Data Types, Input/Output ✅
 
@@ -58,6 +59,7 @@ Object-Oriented Programming (OOP)
 Modules & Libraries (math, random, os, datetime)
 
 
+
 🤖 Stage 2: Logic & Problem Solving
 Practice Platforms (Leetcode, HackerRank – Easy/Medium)
 
@@ -72,6 +74,7 @@ Competitive Problem Solving Mindset
 
 
 
+
 🧠 Stage 3: Data & AI Basics
 NumPy & Pandas (Data analysis)
 
@@ -83,6 +86,7 @@ Statistics & Probability (basic ML math)
 
 
 Linear Algebra & Calculus (concept level)
+
 
 
 🤖 Stage 4: Machine Learning
@@ -117,6 +121,7 @@ Transfer Learning (using pre-trained models)
 
 
 
+
 🧠 Stage 6: Natural Language Processing (NLP)
 Text Preprocessing (tokenization, stemming)
 
@@ -133,6 +138,7 @@ Chatbot with basic rules
 Chatbot with ML/Transformer-based logic
 
 
+
 🚀 Stage 7: Build Projects
 AI Chatbot (Text-based with memory)
 
@@ -147,6 +153,7 @@ JARVIS System (integrated NLP + hardware)
 
 
 WALL-E Robot (with sensors, Raspberry Pi, vision)
+
 
 
 🌐 Stage 8: AI SaaS / Web Deployment
@@ -166,6 +173,7 @@ Build a GPT-Powered App with OpenAI API
 
 
 Add user login/auth + DB for saving chat history
+
 
 
 
