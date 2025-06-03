@@ -38,13 +38,13 @@ Control Flow (if/elif/else) ✅
 Loops (for, while, break, continue) ✅
 
 
-Functions & Scope✅
+Functions & Scope ✅
 
 
-Data Structures (Lists, Tuples, Sets, Dicts)
+Data Structures (Lists, Tuples, Sets, Dicts) ✅
 
 
-String Manipulation
+String Manipulation ✅
 
 
 File Handling (read/write .txt, .csv, .json)
