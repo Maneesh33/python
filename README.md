@@ -14,7 +14,7 @@ Welcome to my dedicated repository for practicing Python with a focus on buildin
 - [x] Variables, Data Types, Input/Output
 - [x] Control Flow (if/elif/else)
 - [x] Loops (for, while, break, continue)
-- [ ] Functions & Scope
+- [x] Functions & Scope
 - [ ] Data Structures (Lists, Tuples, Sets, Dicts)
 - [ ] String Manipulation
 - [ ] File Handling (read/write .txt, .csv, .json)
